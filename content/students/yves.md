@@ -25,7 +25,7 @@ date: 2018-05-18 17:20
 
 objective: Devenir developpeur application Android en 1 an.
 
-short_description: J'aime le poulet, surtout le blanc de poulet, très bon pour le corps, enfin je crois...
+short_description: J'aime le sport et l'informatique ainsi que les mangas
 
 
 # don't touch that
@@ -34,17 +34,12 @@ template: students
 
 description:
 
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Après avoir développer une application avec 4D lors de mon passage en
+    association, j'ai su que je voulais devenir développeur.
+    J'ai réussi à faire une formation en tant que technicien supérieur de
+    support informatique pour pouvoir travailler dans le domaine informatique,
+    après plus de  2 ans dans le support j'ai décider de me lancer dans une
+    développeur en autofinancement.
 
 
 # image must be located in content/images/students
@@ -67,9 +62,9 @@ projects:
 
     description: Lien linkedIn : https://www.linkedin.com/in/yves-battagliola-4a2479aa/.
 
-     Create a new repository for your images. Name it the same as your nickname and profile picture.
+     # Create a new repository for your images. Name it the same as your nickname and profile picture.
 
-     Image must be here: content/students/yourrepo/project1.png
+    # Image must be here: content/students/yourrepo/project1.png
 
     image: ratus/projet_1.png
 
@@ -89,7 +84,7 @@ projects:
 
      link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
 
-     finished: true
+     finished: false
 
    - title: Aidez MacGyver à sortir !
 
